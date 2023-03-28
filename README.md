@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in learning cool things, & building even cooler things
 
-- 🍵 I run minthouse.dev, a product development studio, specialised in user-centric products.
+- 🍵 working @ minthouse.dev, a product development studio
 
 - 📫 Drop me a line on twitter if you want to chat!
 
