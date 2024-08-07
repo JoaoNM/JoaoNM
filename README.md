@@ -1,4 +1,6 @@
-📫 Drop me a line on twitter if you want to chat!
+Director, [Minthouse.dev](https://www.minthouse.dev/)
+
+Learn more [about me](https://joaonm.com)
 
 <!---
 JoaoNM/JoaoNM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
