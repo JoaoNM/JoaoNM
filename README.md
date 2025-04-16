@@ -1,6 +1,4 @@
-Director, [Minthouse.dev](https://www.minthouse.dev/)
-
-Learn more [about me](https://joaonm.com)
+Director, [Futovia.com](https://www.futovia.com/)
 
 <!---
 JoaoNM/JoaoNM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
